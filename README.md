@@ -1,2 +1,2 @@
 # Express_Srv
-A Simple Express Backend Server
+A simple Express backend server to test RESTfull APIs and a static web page.
